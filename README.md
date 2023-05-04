@@ -3,6 +3,7 @@ Docker for GPT4
 ```
 git clone https://github.com/sayveprotocol/GPT4Free-Docker.git
 cd GPT4Free-Docker
+```
 Build
 ```
 docker build -t gpt4free:latest .
